@@ -21729,10 +21729,13 @@ function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
-      return __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("div", null, __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("h1", null, "FlatGrid"), __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("div", {
+      return __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("div", {
         style: {
-          display: 'flex',
-          padding: '20px'
+          padding: '10px'
+        }
+      }, __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("h1", null, "FlatGrid"), __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("div", {
+        style: {
+          display: 'flex'
         }
       }, __WEBPACK_IMPORTED_MODULE_0_react__["createElement"]("div", {
         style: {
