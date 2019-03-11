@@ -95,9 +95,9 @@ export class FlatGridDemo extends React.Component<IProps, IState> {
 
     public render() {
         return (
-            <div>
+            <div style={{padding: '10px'}}>
                 <h1>FlatGrid</h1>
-                <div style={{display: 'flex', padding: '20px'}}>
+                <div style={{display: 'flex'}}>
                     <div style={{ display: 'inline-block', width: '250px'}} >
                         <AxisTransmogrifier
                             axes={this.state.axes}
