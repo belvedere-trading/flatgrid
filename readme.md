@@ -11,6 +11,6 @@ Features:
 - Windowed rendering (only render the cells that are visible)
 - Written in TypeScript
 
-Compatability warning:
+Compatibility warning:
 - Uses CSS Grid and position sticky.
 
