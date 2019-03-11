@@ -1,8 +1,8 @@
 # FlatGrid
 
-FlatGrid is a web component written in TypeScript/ReactJs designed to display an N-dimensional dataset as a flat 2-dimensional grid.
+FlatGrid is a React component for displaying multi-dimensional data in a flat 2-dimensional grid
 
-Demo site:
+Demo site: http://belvedere-trading.github.io/flatgrid/index.html
 
 ![](FlatGridDemo.gif)
 
